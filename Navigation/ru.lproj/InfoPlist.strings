@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Navigation
+
+  Created by Pavel Grigorev on 01.05.2023.
+
+*/
+
+NSLocationWhenInUseUsageDescription = "Для автоматического определения вашего местоопожения";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Для автоматического определения вашего местоопожения";
+NSFaceIDUsageDescription = "Для быстрой и лёгкой авторизации";

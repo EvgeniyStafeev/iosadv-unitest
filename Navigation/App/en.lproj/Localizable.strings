@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Navigation
+
+  Created by Pavel Grigorev on 01.05.2023.
+  
+*/
+
+// general
+"general.ok" = "Okay";
+"general.cancel" = "Cancel";
+"general.yes" = "Yes";
+"general.delete" = "Delete";
+"general.error" = "Error";
+"general.attention" = "Attention";
+"general.register" =  "Do you want to register new user?";
+
+// TabBar
+"tabbar.favorites" = "Favorites";
+"tabbar.profile" = "Profile";
+
+// Favorites
+"favorites.title" = "Favorites";
+"favorites.tip" = "Your favorite posts will be displayed here";
+
+"favorites.alert.title" = "Search";
+"favorites.alert.message" = "Enter the author";
+
+"favorites.location.alert.title" = "Access error";
+"favorites.location.alert.message" = "Allow the app to access your location";
+
+// Login
+"login.email" = "Email or phone";
+"login.password" = "Password";
+"login.button" = "Log in";
+"login.register" = "Do you want to register new user?";
+"login.wrongPassword" = "Wrong Password";
+"login.hello" = "Hello";
+"login.badEmail" = "The email address is badly formatted.";
+
+// Profile
+"profile.statusPlaceholder" = "Type here";
+"profile.statusButton" = "Set status";
+"profile.photos" = "Photos";
+"profile.photogallery" = "Photo Gallery";
+"profile.likes" = "Likes";
+"profile.views" = "Views";

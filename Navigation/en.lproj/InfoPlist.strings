@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Navigation
+
+  Created by Pavel Grigorev on 01.05.2023.
+  
+*/
+
+NSLocationWhenInUseUsageDescription = "Please, allow us to use GPS";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Please, allow us to use GPS";
+NSFaceIDUsageDescription = "Easy, fast and safety!";
