@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  Navigation
+
+  Created by Pavel Grigorev on 01.05.2023.
+  
+*/
+
+// general
+"general.ok" = "Окей";
+"general.cancel" = "Отмена";
+"general.yes" = "Да";
+"general.delete" = "Удалить";
+"general.error" = "Ошибка";
+"general.attention" = "Внимание";
+"general.register" =  "Хотите зарегистрировать нового пользователя?";
+
+// TabBar
+"tabbar.favorites" = "Избранное";
+"tabbar.profile" = "Профиль";
+
+// Favorites
+"favorites.title" = "Избранное";
+"favorites.tip" = "Здесь будут отображаться избранные посты";
+
+"favorites.alert.title" = "Поиск";
+"favorites.alert.message" = "Введите автора статьи";
+
+"favorites.location.alert.title" = "Ошибка доступа";
+"favorites.location.alert.message" = "Разрешите приложению доступ к вашей геопозиции";
+
+// Login
+"login.email" = "Почта или телефон";
+"login.password" = "Пароль";
+"login.button" = "Войти";
+"login.register" = "Хотите зарегистрировать нового пользователя?";
+"login.wrongPassword" = "Неверный пароль";
+"login.hello" = "Привет";
+"login.badEmail" = "Неверный формат почты";
+
+// Profile
+"profile.statusPlaceholder" = "Введите текст";
+"profile.statusButton" = "Установить статус";
+"profile.photos" = "Фото";
+"profile.photogallery" = "Фотогалерея";
+"profile.likes" = "Лайки";
+"profile.views" = "Просмотры";
